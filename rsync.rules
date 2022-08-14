@@ -1,0 +1,32 @@
+# Add all sub directories
++_*/
+
+# Video
++_*.MP4
++_*.mp4
++_*.MOV
++_*.mov
+
+# Image
++_*.RW2
++_*.rw2
++_*.JPG
++_*.jpg
++_*.JPEG
++_*.jpeg
++_*.PNG
++_*.png
+
+# Audio
++_*.MP3
++_*.mp3
++_*.WAV
++_*.wav
++_*.OGG
++_*.ogg
++_*.MKV
++_*.mkv
+
+
+# Ignore the rest
+-_*
